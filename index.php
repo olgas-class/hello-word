@@ -1,7 +1,8 @@
 <?php
 // Qui va scritto codice php
-$name = 'Michele';
-$age = 25;
+// $name = 'Michele';
+// $age = 25;
+$name = $_GET['name']
 ?>
 
 <!DOCTYPE html>
